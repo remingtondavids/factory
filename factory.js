@@ -1,3 +1,5 @@
+/*
+
 class Factory {
 
     constructor(size, money) {
@@ -36,3 +38,11 @@ class Storage {
 class Transporter {
 
 }
+
+*/
+
+function helloWorld() {
+    console.log("Hello World");
+
+}
+
